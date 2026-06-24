@@ -43,7 +43,7 @@ Key business questions answered using PostgreSQL:
 
 ## 📊 Power BI Dashboard
 
-![Customer Behavior Dashboard](dashboard.png)
+![Customer Behavior Dashboard](Dashboard.png)
 
 The dashboard presents insights through:
 
